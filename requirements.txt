@@ -11,3 +11,4 @@ beautifulsoup4
 pdf2image
 paperswithcode-client
 openreview-py
+streamlit>=1.28.0
